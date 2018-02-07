@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1474550587 source:/home/fred/Documents/UNB/TP1/Trab TP!/Dominios.cpp
+	<iostream>
+	<string>
+	"Dominios.h"
+
+1474550199 /home/fred/Documents/UNB/TP1/Trab TP!/Dominios.h
+	<string>
+	<stdexcept>
+
+1474549221 source:/home/fred/Documents/UNB/TP1/Trab TP!/main.cpp
+	<iostream>
+	<string>
+	"Dominios.h"
+	"TUD.h"
+	"Entidades.h"
+	"TUE.h"
+
+1474551779 /home/fred/Documents/UNB/TP1/Trab TP!/TUD.h
+	<string>
+	<stdexcept>
+	"Dominios.h"
+
+1474553970 /home/fred/Documents/UNB/TP1/Trab TP!/Entidades.h
+	"Dominios.h"
+	<string>
+	<stdexcept>
+
+1474551769 /home/fred/Documents/UNB/TP1/Trab TP!/TUE.h
+	<iostream>
+	<string>
+	"Entidades.h"
+	"Dominios.h"
+
+1474553110 source:/home/fred/Documents/UNB/TP1/Trab TP!/Entidades.cpp
+	<iostream>
+	<string>
+	"Entidades.h"
+	"Dominios.h"
+
+1474551659 source:/home/fred/Documents/UNB/TP1/Trab TP!/TUD.cpp
+	"TUD.h"
+	<iostream>
+	<string>
+	"Dominios.h"
+
+1474551655 source:/home/fred/Documents/UNB/TP1/Trab TP!/TUE.cpp
+	<iostream>
+	<string>
+	"Entidades.h"
+	"Dominios.h"
+	"TUE.h"
+
